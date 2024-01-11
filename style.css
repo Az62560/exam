@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    display: flex;
+    
+}
+
+#lorem {
+    margin: 10rem 2rem 0 2rem;
+}
+
+.li {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+a{
+    text-decoration:none;
+    justify-content: center;
+    color:black;
+  
+  }
+
+
+#card {
+    flex-direction: row;
+    
+    
+}
+
